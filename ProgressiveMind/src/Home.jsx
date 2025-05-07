@@ -15,7 +15,7 @@ const Home = () => {
           <div className="space-y-6 text-center md:text-left">
             <GradientHeading
               text="Empowering the Youth of India"
-              
+              className='mt-20'
               size="text-4xl md:text-5xl lg:text-6xl"
             />
             <p className="text-gray-300 text-lg md:text-xl font-calsans">
